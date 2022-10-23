@@ -1,0 +1,25 @@
+⭐Sanity JSM Subscribers Special - https://www.sanity.io/javascriptmaste...
+⭐Get help with Sanity on their Slack Channel - https://slack.sanity.io
+
+🌴Nomadawhat's Remote Freedom System - https://go.nomadawhat.com/theremotefr...
+🌴Nomadawhat - https://nomadawhat.com/
+
+💻JS Mastery Pro - https://jsmastery.pro?discount=youtube
+✅ A special YOUTUBE discount code is automatically applied!
+
+📚 Materials/References:
+GitHub Code (give it a star ⭐): https://github.com/adrianhajdin/proje...
+GitHub Gist Code Snippets: https://gist.github.com/adrianhajdin/a844254aa10510d62ecafc21d0c3714c
+Utils Folder: https://minhaskamal.github.io/DownGit...
+Google Console - https://console.cloud.google.com/
+
+Time Stamps 👇
+00:00 Intro
+00:19:35 Setup
+00:39:06 Sidebar
+00:54:34 Discover
+01:09:09 Main Video View
+01:55:24 Google Auth
+02:06:11 Creating User Store
+02:30:05 Upload Video Functionality
+03:10:43 Part two coming soon!
