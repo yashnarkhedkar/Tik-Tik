@@ -46,7 +46,7 @@ const Comments = ({ comment, setComment, addComment, comments, isPostingComment 
         {comments?.length > 0 ? (
           comments?.map((item, idx) => (
             <>
-              {AllUsers.map((user: IUser) => (
+              {AllUsers?.map((user: IUser) => (
                 user._id === (item.postedBy._id || item.postedBy._ref) && (
                   <div className='p-2 items-center' key={idx}>
                     <Link
