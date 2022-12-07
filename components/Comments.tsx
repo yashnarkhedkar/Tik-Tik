@@ -44,7 +44,7 @@ const Comments = ({ comment, setComment, addComment, comments, isPostingComment 
       )}
       <div className='overflow-scroll lg:h-[295px]'>
         {comments?.length > 0 ? (
-          comments.map((item, idx) => (
+          comments?.map((item, idx) => (
             <>
               {AllUsers.map((user: IUser) => (
                 user._id === (item.postedBy._id || item.postedBy._ref) && (
